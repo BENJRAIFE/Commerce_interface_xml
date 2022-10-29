@@ -1,0 +1,11 @@
+<resources>
+    <string name="store"> In store</string>
+    <string name="color">Color: black</string>
+    <string name="dollar">17.75 dollar</string>
+    <string name="price">price : 17.75</string>
+    <string name="button">ADD TO CARD</string>
+    <string name="quantite">Quantity:2</string>
+    <string name="name">Name:black T-shirt</string>
+
+
+</resources>
